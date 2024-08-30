@@ -1,0 +1,25 @@
+.services {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 15vh;
+    margin: 0;
+    padding: 10%;
+}
+.services .edge {
+    width: 15vw;
+    margin: 2px;
+    padding: 5px;
+    background: radial-gradient(ellipse closest-side at center, #FDF0F2, white);
+}
+.services .edge:nth-child(4) {
+    background: radial-gradient(ellipse closest-side at center, #F5FDFA, white);
+}
+.services .edge div {
+    margin-top: 10px;
+}
+.edge p {
+    color: rgba(128, 128, 128, 0.466);
+}
