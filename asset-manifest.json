@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AmberStudentClone/static/css/main.174189f3.css",
+    "main.js": "/AmberStudentClone/static/js/main.83138136.js",
+    "static/js/453.1ba0f5ed.chunk.js": "/AmberStudentClone/static/js/453.1ba0f5ed.chunk.js",
+    "index.html": "/AmberStudentClone/index.html",
+    "main.174189f3.css.map": "/AmberStudentClone/static/css/main.174189f3.css.map",
+    "main.83138136.js.map": "/AmberStudentClone/static/js/main.83138136.js.map",
+    "453.1ba0f5ed.chunk.js.map": "/AmberStudentClone/static/js/453.1ba0f5ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.174189f3.css",
+    "static/js/main.83138136.js"
+  ]
+}
